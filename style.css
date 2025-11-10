@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+h1 {
+  text-align: center;
+  background-color: black;
+  color: #ffff;
+  margin-top: 30px;
+}
+p {
+  text-align: center;
+  margin-top: 15px;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 15px;
+}
